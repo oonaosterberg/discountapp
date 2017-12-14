@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="shell.metropolia.fi">
+    <serverData>
+      <paths name="shell.metropolia.fi">
+        <serverdata>
+          <mappings>
+            <mapping deploy="public_html/projekti/PROJEKTI" local="$PROJECT_DIR$" web="/projekti/PROJEKTI" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
