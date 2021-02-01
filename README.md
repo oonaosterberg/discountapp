@@ -1,9 +1,3 @@
-# projekti
-# projekti
-# valmis-projekti
-# valmis-projekti-2.0
-# valmis-projekti-2.0
-# valmis-projekti-2.0
 # discountapp
-# discountapp
-# discountapp
+
+An app where you can post and view discounted items in your area. 
